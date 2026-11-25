@@ -16,7 +16,7 @@ I'm a Computer Science & AI graduate from IE University in Madrid. I've spent th
 ## Main Achievements
 
 - **€0 → €160K ARR in 4 months at Skoll.** I co-founded and launched an AI GTM Engineer agent and owned the product from discovery to release. 4 of 4 pilots converted to €30K contracts, a 100% pilot-to-paid rate.
-- **Won OpenAI's official hackathon (Nov 2024)** with Fiscochat, a RAG-based legal AI assistant, then **sold it to an Italian law firm**, turning a weekend prototype into paid usage. <!-- TODO: link -->
+- **Won OpenAI's official hackathon (Nov 2024)** with Fiscochat, a RAG-based legal AI assistant, then **sold it to an Italian law firm**, turning a weekend prototype into paid usage. 
 - **Coordinated formation flight for a 6-UAV swarm** at the ERC-funded Swarm Systems Lab (Granada). I also reached **0.7 m localization accuracy in GPS-denied environments** using a vision-only CNN on Jetson edge hardware, and improved position tracking by **28%** with a SLAM + visual odometry pipeline.
 - **Cut release turnaround by 60%** at Skoll by building and running an internal requirement → spec → ticket → release system.
 
@@ -26,8 +26,8 @@ I'm a Computer Science & AI graduate from IE University in Madrid. I've spent th
 
 | Project | Your role & stack | Impact / Demo |
 |---|---|---|
-| **Skoll – AI GTM Engineer agent** | Co-founder & CPO • LangGraph, Python, TypeScript <!-- TODO: confirm stack --> | €160K ARR in 4 months, 100% pilot-to-paid (4/4 at €30K) <!-- TODO: link --> |
-| **Fiscochat** | Builder • LangChain + RAG + OpenAI API | 🏆 Winner, OpenAI official hackathon; sold to an Italian law firm <!-- TODO: link --> |
+| **Skoll – AI GTM Engineer agent** | Co-founder & CPO • LangGraph, Python, TypeScript, AWS | €160K ARR in 4 months, 100% pilot-to-paid (4/4 at €30K) useskoll.com |
+| **Fiscochat** | Builder • LangChain + RAG + OpenAI API | 🏆 Winner, OpenAI official hackathon; sold to an Italian law firm  |
 | **Voice-Controlled Drone Swarm** | Solo dev • Python, MCP, GVF algorithms, Crazyflie | Voice commands → real-time formation flight for 2 drones, built in 1 month |
 | **Autonomous plant-care robot** | Research assistant • ROS, C++/Python, Jetson, Raspberry Pi, OptiTrack | Holonomic robot with GVF path-following; demoed to the IE Cyber Physical Lab |
 
@@ -56,7 +56,7 @@ I'm a Computer Science & AI graduate from IE University in Madrid. I've spent th
 
 ## Other
 
-- **Hobbies & sports:** Basketball · Football (7-a-side) · Skiing · Chess (former Vice-President of the IE Chess Club) · Magic: The Gathering · Overwatch
+- **Hobbies & sports:** Basketball · Football (7-a-side) · Skiing · Chess · Magic: The Gathering · Overwatch
 - **Values / worldview:** Trustworthiness, commitment and transparency. If I say I'll do something, it gets done, and if something's going wrong, you'll hear it from me first.
 - **Languages:** Spanish (native), English (fluent), French (fluent)
 - **Links:** [GitHub](https://github.com/TODO) · [LinkedIn](https://linkedin.com/in/TODO) · gomez.acebo.luis@gmail.com
