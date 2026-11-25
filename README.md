@@ -1,13 +1,13 @@
 # Luis Gomez-Acebo
 
 **Best with:** Python · TypeScript · LangGraph / LangChain · ROS
-**Familiar with:** C++ · AWS · SQL · NVIDIA Jetson · Model Context Protocol (MCP)
+**Familiar with:** C++ · AWS · SQL · NVIDIA Jetson 
 
 > 💡 **TL;DR** — I'm a builder who works on both AI agents and real-world robotics, and I take products from 0 to paying customers. As co-founder and CPO of Skoll, I helped take an AI GTM Engineer agent from €0 to €160K ARR in 4 months, and all 4 of our pilots became €30K contracts. Before that I won OpenAI's official hackathon with Fiscochat and sold it to a law firm, and I flew 6-drone swarms in formation for an ERC-funded research lab. My superpower is turning a vague problem into a shipped product, fast. What drives me is seeing customers get real value from what I build.
 
 ---
 
-## About Luis
+## About Me
 
 I'm a Computer Science & AI graduate from IE University in Madrid. I've spent the last few years moving between two worlds: LLM agents that do real work for businesses, and autonomous robots and drones that have to work in the physical world. I've co-founded a startup, shipped agent products to paying customers, and written control and perception code that runs on real hardware. What excites me most is where those two worlds meet: AI that can take action, whether it's running in a CRM or flying a drone.
 
@@ -24,7 +24,7 @@ I'm a Computer Science & AI graduate from IE University in Madrid. I've spent th
 
 ## Most-Prideful Builds
 
-| Project | Your role & stack | Impact / Demo |
+| Project | Role & stack | Impact / Demo |
 |---|---|---|
 | **Skoll – AI GTM Engineer agent** | Co-founder & CPO • LangGraph, Python, TypeScript, AWS | €160K ARR in 4 months, 100% pilot-to-paid (4/4 at €30K) useskoll.com |
 | **Fiscochat** | Builder • LangChain + RAG + OpenAI API | 🏆 Winner, OpenAI official hackathon; sold to an Italian law firm  |
